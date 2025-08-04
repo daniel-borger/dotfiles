@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 219872002+daniel-borger@users.noreply.github.com
+	name = Daniel Borger
